@@ -2,6 +2,10 @@
 
 This simple program can add null bytes (00) to any file you specify. You can use it for adding bytes to .dll files (Assembly-CSharp.dll) if games have protection that checks the file size, if you need to replace an image with the image with same size etc.
 
+# Before use
+
+Create build directory in root directory. <code>mkdir build</code> on Linux.
+
 # Version
 
 - Jack (0.0.1). 1st and last.
